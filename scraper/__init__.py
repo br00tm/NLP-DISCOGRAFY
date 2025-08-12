@@ -1,0 +1,1 @@
+# Torna 'scraper' um pacote Python 
